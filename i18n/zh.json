@@ -1,0 +1,110 @@
+{
+  "ui": {
+    "company_name": "綠策院有限公司",
+    "company_name_en": "EverLab360 Inc.",
+    "tagline": "Your Partner to Sustainability",
+    "nav": {
+      "about": "About",
+      "team": "Our Team",
+      "service": "Service",
+      "collaborators": "Collaborators",
+      "reviews": "Reviews",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "footer": {
+      "quick_links": "Quick Links",
+      "more": "More",
+      "contact": "Contact",
+      "tax_id_label": "統一編號",
+      "copyright": "© 2024-2026 EverLab360 Inc. All rights reserved."
+    },
+    "newsletter_title": "歡迎訂閱電子報",
+    "newsletter_desc": "獲取最新 ESG 趨勢、法規更新與實務案例",
+    "visit_us": "Visit Us",
+    "view_all_posts": "View All Posts ({count})",
+    "home": "Home",
+    "top": "Top",
+    "gui_number": "GUI number：93522258",
+    "address_en": "No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
+    "address_zh": "臺北市中正區博愛路104號",
+    "address_floor": "臺北市中正區博愛路104號3樓",
+    "line": "Line: @573ogwrs",
+    "email": "everlab360@gmail.com",
+    "lang_label": "繁體中文",
+    "lang_short": "繁中"
+  },
+  "index": {
+    "title": "綠策院有限公司 - Your Partner to Sustainability",
+    "hero_title": "Your Partner to Sustainability",
+    "hero_desc": "<strong>EverLab360</strong> 是一家專注於永續轉型的策略顧問公司，協助企業整合 ESG、品牌與營運，打造具有社會價值與市場競爭力的商業模式。",
+    "team_section_title": "Meet Our Team",
+    "team_belief_intro": "我們相信：",
+    "team_belief": [
+      "永續不是附加，而是企業的生存與成長策略",
+      "ESG 報告不是目的，而是轉型的起點",
+      "顧問不能只給建議，必須陪你走到成果落地"
+    ],
+    "team": [
+      {"name": "吳玟樺 Evvon Wu", "bio": "15年公益團體經驗，擅長組織間溝通合作，運用社會價值報告呈現價值。持有企業永續管理師和企業教練等多項證照。"},
+      {"name": "陳宜均 Mina Chen", "bio": "顧問資歷15年，豐富的經歷於協助學界進行研究調查，並有品牌與行銷健檢與策略規劃、商情分析、商業模式建置等擅長工具。"},
+      {"name": "蕭冠宇 Daniel Hsiao", "bio": "顧問資歷8年，歷經高階獵才領域看產業結構及人力發展變動，並導入品牌顧問策略予企業輔導中，陪伴台灣的轉型及起飛。"},
+      {"name": "郭開文 Kevin Kuo", "bio": "CSR 顧問15年，輔導大型企業永續發展規劃與報告，對傳統產業之永續力轉型有豐富經驗。"},
+      {"name": "連千葇 Helen Lien", "bio": "Everlab 360 特別助理。"}
+    ],
+    "services": [
+      {
+        "title": "各別產品/服務 - 驗證/優化",
+        "items": ["政府補助", "社會責任策略規劃", "社會價值計算", "物質流成本會計: MFCA (ISO 14051)", "碳/水足跡查證/第三方驗證", "GRI認證國際綠色標章: Synesgy"],
+        "links": {"3": "mfca.html", "5": "synesgy.html"}
+      },
+      {
+        "title": "企業永續力 - ESG永續力",
+        "items": ["企業永續力體檢", "永續力輔導/顧問", "企業內訓", "GRI規範永續報告書/網頁動態版永續報告書", "碳盤查認證/溫室氣體排放查證"]
+      },
+      {
+        "title": "企業永續力 - 品牌永續力",
+        "items": ["永續商業模式", "永續企業品牌", "永續領導人品牌塑造", "永續公關危機解方"]
+      },
+      {
+        "title": "影響力擴散 - 永續推廣",
+        "items": ["公益媒合", "永續行銷策略", "ESG公關策略", "國內外ESG獎項參賽", "ESG媒體曝光", "企業形象影像服務"]
+      }
+    ],
+    "collaborators": {
+      "stats": [
+        "已協助 <strong>100+</strong> 客戶橫跨傳產、科技與非營利領域",
+        "成功申請補助與認證案件達 <strong>80%</strong> 以上",
+        "擁有 <strong>GRI、B型企業、TCFD 證照</strong>與完整輔導經驗"
+      ],
+      "business_partners_title": "Business Partners",
+      "business_partners": [
+        {"name": "鑫判科技 BAMZD", "url": "https://bamzd.com/"},
+        {"name": "共好玟化", "url": "https://coesg.tw/about"},
+        {"name": "允捷法律事務所", "url": "https://www.winjus.com/"},
+        {"name": "齊禾品牌顧問", "url": "https://www.chihedesign.com/"},
+        {"name": "Axtim", "url": "https://blog.axtim.com/"},
+        {"name": "星芽社會企業", "url": "https://www.jooinnow.io/"},
+        {"name": "台灣環境管理會計協會", "url": "https://www.eman.tw/"},
+        {"name": "汗得Hand", "url": "https://www.hand.org.tw/habs"},
+        {"name": "禾谷創意", "url": "https://www.hegu-design.com/"}
+      ],
+      "past_clients_title": "Past Clients",
+      "past_clients": [
+        {"category": "研究/教育機構：", "items": "國立陽明交通大學、國立臺灣科技大學、國立高雄科技大學、國立臺灣大學、工業技術研究院、資訊工業策進會"},
+        {"category": "公營事業：", "items": "台灣中油、台糖、台灣國際造船、台灣電力公司、桃園醫院"},
+        {"category": "企業：", "items": "李長榮集團、緯創醫學科技、安麗台灣、裕隆汽車、正隆、台橡等"},
+        {"category": "公益團體：", "items": "阿昌清潔庇護工場、明怡基金會、白永恩神父基金會"}
+      ]
+    },
+    "reviews": [
+      {"text": "「這次的顧問諮詢讓我受益匪淺，一直以來，我們公司在品牌設計上是專注於為其他企業找定位和目標，但往往把自己放在最後。透過這次的討論，我們有機會好好檢視自己的品牌，重新找回了當初那股熱情和初心。整個過程很有溫度，讓我能坦誠地討論，釐清自己的目標。」", "author": "— 齊禾設計劉總監"},
+      {"text": "「釐清什麼是願景目標，什麼是執行方法，越來越明確，也了解怎麼跟人說明自己的永續價值。」", "author": "— 兔耳生活創辦人"}
+    ],
+    "blog_subtitle": "Watch, Read, Listen"
+  },
+  "mfca": {"title": "MFCA 物質流成本會計"},
+  "synesgy": {"title": "Synesgy"},
+  "contact": {"title": "聯絡我們"},
+  "blog_titles": {}
+}

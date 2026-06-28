@@ -1,0 +1,219 @@
+{
+  "ui": {
+    "company_name": "EverLab360 Inc.",
+    "tagline": "Đối tác phát triển bền vững của bạn",
+    "nav": {
+      "about": "Giới thiệu",
+      "team": "Đội ngũ",
+      "service": "Dịch vụ",
+      "collaborators": "Đối tác",
+      "reviews": "Đánh giá",
+      "blog": "Blog",
+      "contact": "Liên hệ"
+    },
+    "footer": {
+      "quick_links": "Liên kết nhanh",
+      "more": "Thêm",
+      "contact": "Liên hệ",
+      "tax_id_label": "Mã số thuế",
+      "copyright": "© 2024-2026 EverLab360 Inc. All rights reserved."
+    },
+    "newsletter_title": "Đăng ký nhận bản tin",
+    "newsletter_desc": "Nhận các xu hướng ESG mới nhất, cập nhật quy định và các nghiên cứu tình huống thực tiễn",
+    "visit_us": "Ghé thăm chúng tôi",
+    "view_all_posts": "Xem tất cả bài viết ({count})",
+    "home": "Trang chủ",
+    "top": "Lên đầu trang",
+    "gui_number": "GUI number: 93522258",
+    "address_en": "No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
+    "address_zh": "臺北市中正區博愛路104號",
+    "address_floor": "3F, No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
+    "line": "Line: @573ogwrs",
+    "email": "everlab360@gmail.com"
+  },
+  "index": {
+    "title": "EverLab360 Inc. - Đối tác phát triển bền vững của bạn",
+    "hero_title": "Đối tác phát triển bền vững của bạn",
+    "hero_desc": "<strong>EverLab360</strong> là công ty tư vấn chiến lược chuyên về chuyển đổi bền vững. Chúng tôi hỗ trợ doanh nghiệp tích hợp ESG, thương hiệu và vận hành để xây dựng mô hình kinh doanh mang lại cả giá trị xã hội lẫn lợi thế cạnh tranh trên thị trường.",
+    "team_section_title": "Gặp gỡ đội ngũ của chúng tôi",
+    "team_belief_intro": "Chúng tôi tin rằng:",
+    "team_belief": [
+      "Bền vững không phải là yếu tố bổ sung—đó là chiến lược để doanh nghiệp tồn tại và phát triển.",
+      "Báo cáo ESG không phải là mục tiêu—đó là điểm khởi đầu của quá trình chuyển đổi.",
+      "Tư vấn viên không chỉ đưa ra lời khuyên—họ phải đồng hành cùng bạn cho đến khi đạt được kết quả."
+    ],
+    "team": [
+      {
+        "name": "Evvon Wu",
+        "bio": "15 năm kinh nghiệm trong lĩnh vực phi lợi nhuận, thành thạo giao tiếp và hợp tác liên tổ chức, đồng thời giỏi trình bày giá trị thông qua báo cáo giá trị xã hội. Sở hữu chứng chỉ quản lý bền vững doanh nghiệp và huấn luyện lãnh đạo."
+      },
+      {
+        "name": "Mina Chen",
+        "bio": "15 năm kinh nghiệm tư vấn với nhiều công việc hỗ trợ khảo sát nghiên cứu học thuật. Thành thạo chẩn đoán thương hiệu và marketing, lập kế hoạch chiến lược, phân tích trí tuệ kinh doanh và phát triển mô hình kinh doanh."
+      },
+      {
+        "name": "Daniel Hsiao",
+        "bio": "8 năm kinh nghiệm tư vấn trong lĩnh vực tuyển dụng cấp cao, am hiểu cấu trúc ngành và xu hướng phát triển nguồn nhân lực. Tích hợp chiến lược tư vấn thương hiệu để hướng dẫn doanh nghiệp Đài Loan chuyển đổi và phát triển."
+      },
+      {
+        "name": "Kevin Kuo",
+        "bio": "15 năm làm tư vấn CSR, hướng dẫn các doanh nghiệp lớn trong lập kế hoạch và báo cáo bền vững, với nhiều kinh nghiệm chuyển đổi các ngành truyền thống hướng tới thực hành bền vững."
+      },
+      {
+        "name": "Helen Lien",
+        "bio": "Trợ lý điều hành tại EverLab360."
+      }
+    ],
+    "services": [
+      {
+        "title": "Sản phẩm/Dịch vụ riêng lẻ – Xác minh & Tối ưu hóa",
+        "items": [
+          "Hỗ trợ trợ cấp chính phủ",
+          "Lập kế hoạch chiến lược trách nhiệm xã hội doanh nghiệp",
+          "Đánh giá giá trị xã hội",
+          "Kế toán chi phí dòng vật liệu: MFCA (ISO 14051)",
+          "Xác minh dấu chân carbon/nước và thẩm định bên thứ ba",
+          "Nhãn xanh quốc tế được chứng nhận GRI: Synesgy"
+        ]
+      },
+      {
+        "title": "Bền vững doanh nghiệp – Khả năng phục hồi ESG",
+        "items": [
+          "Kiểm tra sức khỏe bền vững doanh nghiệp",
+          "Huấn luyện và tư vấn bền vững",
+          "Đào tạo nội bộ doanh nghiệp",
+          "Báo cáo bền vững tuân thủ GRI / Báo cáo bền vững web động",
+          "Chứng nhận kiểm kê carbon / Xác minh phát thải khí nhà kính"
+        ]
+      },
+      {
+        "title": "Bền vững doanh nghiệp – Khả năng phục hồi thương hiệu",
+        "items": [
+          "Mô hình kinh doanh bền vững",
+          "Xây dựng thương hiệu doanh nghiệp bền vững",
+          "Xây dựng thương hiệu lãnh đạo bền vững",
+          "Giải pháp khủng hoảng PR bền vững"
+        ]
+      },
+      {
+        "title": "Khuếch đại tác động – Quảng bá bền vững",
+        "items": [
+          "Kết nối phúc lợi cộng đồng",
+          "Chiến lược marketing bền vững",
+          "Chiến lược quan hệ công chúng ESG",
+          "Đăng ký giải thưởng ESG trong nước và quốc tế",
+          "Truyền thông ESG",
+          "Dịch vụ video hình ảnh doanh nghiệp"
+        ]
+      }
+    ],
+    "collaborators": {
+      "stats": [
+        "Đã hỗ trợ hơn <strong>100+</strong> khách hàng trong các ngành truyền thống, công nghệ và phi lợi nhuận",
+        "Đạt tỷ lệ thành công hơn <strong>80%</strong> trong đăng ký trợ cấp và chứng nhận",
+        "Được chứng nhận và có kinh nghiệm trong các khung <strong>GRI, B Corp và TCFD</strong>"
+      ],
+      "business_partners_title": "Đối tác kinh doanh",
+      "business_partners": [
+        "BeAmazed Tech BAMZD",
+        "Gubg-Ho Culture",
+        "Winjus Law Firm",
+        "ChiHe Brand Consulting",
+        "Axtim",
+        "Jooin Social Enterprise",
+        "Taiwan Environmental Management Accounting Association",
+        "Hand e.V.",
+        "Hegu Creative"
+      ],
+      "past_clients_title": "Khách hàng trước đây",
+      "past_clients": [
+        {
+          "category": "Viện nghiên cứu/Giáo dục",
+          "items": "Đại học Quốc gia Dương Minh Giao Thông, Đại học Khoa học và Công nghệ Quốc gia Đài Loan, Đại học Khoa học và Công nghệ Cao Hùng Quốc gia, Đại học Quốc gia Đài Loan, Viện Công nghệ Công nghiệp (ITRI), Viện Thông tin Công nghiệp (III)"
+        },
+        {
+          "category": "Doanh nghiệp nhà nước",
+          "items": "Tập đoàn Dầu khí CPC Đài Loan, Tập đoàn Đường Đài Loan, Tập đoàn Đóng tàu CSBC Đài Loan, Công ty Điện lực Đài Loan, Bệnh viện Đa khoa Đào Viên"
+        },
+        {
+          "category": "Doanh nghiệp tư nhân",
+          "items": "Tập đoàn LCY, Wistron Medical Technology, Amway Đài Loan, Yulon Motor, Cheng Loong Corp., TSRC Corporation và nhiều hơn nữa"
+        },
+        {
+          "category": "Tổ chức phi lợi nhuận",
+          "items": "Xưởng bảo trợ A-Chang, Quỹ Ming Yi, Quỹ Father Joseph Beu"
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "text": "Buổi tư vấn này vô cùng giá trị. Mặc dù chúng tôi luôn tập trung vào định vị các công ty khác, chúng tôi thường đặt bản thân ở vị trí cuối cùng. Qua cuộc thảo luận này, chúng tôi có cơ hội xem xét kỹ lưỡng thương hiệu của mình và khám phá lại niềm đam mê và mục đích ban đầu. Toàn bộ quá trình ấm áp và cởi mở, cho phép tôi thảo luận một cách trung thực và làm rõ mục tiêu của mình.",
+        "author": "— Giám đốc Liu, ChiHe Design"
+      },
+      {
+        "text": "Nó đã làm rõ đâu là tầm nhìn và đâu là phương pháp thực hiện—từng bước trở nên rõ ràng hơn. Giờ đây tôi hiểu cách giải thích giá trị bền vững của chúng tôi cho người khác.",
+        "author": "— Người sáng lập, Tour Eco-Fair Studio"
+      }
+    ],
+    "blog_subtitle": "Xem, Đọc, Nghe"
+  },
+  "mfca": {
+    "title": "Kế toán chi phí dòng vật liệu (MFCA)",
+    "body": "<p>Trong môi trường sản xuất cạnh tranh cao ngày nay, các công ty thường chỉ tập trung vào lợi nhuận bán sản phẩm trong khi bỏ qua những tổn thất ẩn đáng kể trong quy trình sản xuất. Lãng phí vật liệu, tiêu thụ năng lượng và chi phí xử lý chất thải có thể làm suy giảm đáng kể lợi nhuận và hiệu suất môi trường. <strong>Kế toán chi phí dòng vật liệu (MFCA)</strong> là công cụ kế toán môi trường sáng tạo có nguồn gốc từ Đức vào những năm 1990 và được đưa vào tiêu chuẩn quốc tế ISO 14051 năm 2011. Các nghiên cứu tình huống toàn cầu cho thấy việc triển khai MFCA có thể đồng thời cải thiện hiệu suất kinh tế và tính bền vững môi trường.</p><p><strong>Kế toán chi phí dòng vật liệu (MFCA) là gì?</strong></p><p>Kế toán chi phí dòng vật liệu (MFCA) là phương pháp <strong>kế toán quản lý môi trường</strong> theo dõi dòng chảy nguyên liệu, năng lượng và chất thải qua từng quy trình sản xuất và chuyển đổi chúng trực tiếp thành chi phí để phân tích. MFCA chia tất cả đầu ra thành hai loại: \"sản phẩm\" (thành phẩm có thể bán được tạo ra lợi nhuận) và \"tổn thất vật liệu\" (tài nguyên tiêu thụ và chất thải phát sinh trong quy trình). Khác với kế toán chi phí truyền thống chỉ coi chất thải là chi phí xử lý, MFCA còn phân bổ tỷ lệ chi phí nguyên liệu, chi phí năng lượng, nhân công và chi phí chung cho chất thải. Phân tích kép \"dòng vật liệu + dòng tiền\" này giúp doanh nghiệp hiểu rõ việc sử dụng tài nguyên và chi phí ẩn ở mỗi giai đoạn sản xuất, cung cấp dữ liệu chính xác để phát triển chiến lược cải tiến tiết kiệm năng lượng, giảm phát thải và cắt giảm chi phí.</p><p><strong>Tại sao doanh nghiệp cần MFCA?</strong></p><p>MFCA mang lại các lợi ích cốt lõi sau:</p><p><strong>Phát hiện chi phí ẩn:</strong> MFCA phân tích kỹ lưỡng chi phí nguyên liệu, năng lượng và chất thải trong quy trình sản xuất, xác định các giai đoạn lãng phí nhất để cải tiến. Phân tích này biến \"lãng phí vô hình\" trước đây thành dữ liệu định lượng, đạt được <strong>cắt giảm chi phí và cải thiện lợi nhuận</strong>.</p><p><strong>Tăng cường minh bạch quyết định:</strong> Thông qua phân tích chi tiết dòng vật liệu và chi phí, MFCA giúp quản lý hiểu rõ việc sử dụng tài nguyên và tác động tài chính ở mỗi giai đoạn sản xuất. Sự minh bạch này củng cố cơ sở cho các quyết định về công nghệ quy trình, kiểm soát chất lượng, thiết kế sản phẩm và các lĩnh vực khác, làm cho hướng cải tiến có mục tiêu hơn.</p><p><strong>Hỗ trợ vận hành bền vững:</strong> MFCA phù hợp với nguyên tắc <strong>kế toán xanh</strong> tích hợp, cải thiện đáng kể hiệu quả sử dụng tài nguyên và giảm phát thải carbon của doanh nghiệp. Các công ty triển khai MFCA thường đạt kết quả đôi bên cùng có lợi về hiệu suất môi trường và kinh tế. Ví dụ, bằng cách giảm lãng phí nguyên liệu và tối ưu hóa sử dụng năng lượng, doanh nghiệp tiết kiệm chi phí đồng thời truyền tải cam kết môi trường đến khách hàng, hỗ trợ vận hành bền vững lâu dài.</p><p>Những lợi ích này khiến MFCA trở thành công cụ mạnh mẽ để cải thiện năng suất và hiệu suất môi trường. Ngày càng nhiều doanh nghiệp vừa và nhỏ cùng các nhà lãnh đạo ngành đầu tư vào triển khai MFCA, tạo ra tiết kiệm chi phí đáng kể và cải thiện môi trường.</p><p><strong>Quy trình triển khai MFCA</strong></p><p>Xây dựng MFCA đòi hỏi sự hợp tác liên phòng ban. Dưới đây là quy trình triển khai phổ biến:</p><ol><li><strong>Xây dựng đội ngũ và đồng thuận:</strong> Do ban lãnh đạo cấp cao khởi xướng, tích hợp các bộ phận quản lý, sản xuất, tài chính, chất lượng và các phòng ban khác vào đội dự án MFCA. Đảm bảo tất cả đơn vị hiểu mục đích và giá trị của MFCA, xây dựng đồng thuận và xác định mục tiêu triển khai rõ ràng.</li><li><strong>Xác định phạm vi và mục tiêu:</strong> Chọn sản phẩm hoặc quy trình có tỷ lệ chi phí cao hoặc tổn thất nghiêm trọng làm mục tiêu phân tích. Vẽ sơ đồ dòng sản xuất và mô hình dòng vật liệu, đánh dấu rõ ràng đầu vào nguyên liệu và năng lượng, đầu ra và dòng chảy chất thải ở mỗi bước sản xuất.</li><li><strong>Thu thập dữ liệu và mã hóa:</strong> Dựa trên mô hình dòng vật liệu, ghi lại số lượng nguyên liệu, năng lượng, đầu ra và chất thải ở mỗi bước quy trình, đồng thời tính toán chi phí tương ứng. Dữ liệu cần thiết bao gồm chi phí nguyên liệu, chi phí năng lượng, chi phí nhân công và chi phí xử lý chất thải.</li><li><strong>Phân tích tổn thất và phát triển cải tiến:</strong> Sử dụng MFCA để chuyển đổi đầu vào và đầu ra ở mỗi bước quy trình thành giá trị tiền tệ, đánh giá tổn thất về số lượng và tài chính ở mỗi giai đoạn. Sau khi xác định các giai đoạn tổn thất cao nhất, đội ngũ thảo luận và phát triển kế hoạch cải tiến cụ thể về giảm thiểu tại nguồn và tối thiểu hóa chất thải.</li><li><strong>Triển khai và tối ưu hóa liên tục:</strong> Đưa các biện pháp cải tiến vào thực tiễn và theo dõi kết quả liên tục. Bằng cách tích hợp MFCA vào quản lý thường xuyên và đánh giá hiệu suất, doanh nghiệp có thể sử dụng phương pháp dựa trên dữ liệu để liên tục tối ưu hóa quy trình sản xuất và phân bổ tài nguyên, đạt được vận hành tinh gọn và bền vững.</li></ol><p>Quy trình này có thể điều chỉnh theo quy mô và nhu cầu của công ty, nhưng tinh thần cốt lõi là \"lập kế hoạch–thực hiện–kiểm tra–hành động\".</p><p><strong>Những thay đổi mà MFCA mang lại</strong><br>Sau khi triển khai MFCA, doanh nghiệp đạt được cải thiện đáng kể về <strong>lợi ích kinh tế và hiệu suất môi trường</strong>. Nghiên cứu cho thấy các công ty áp dụng MFCA có cải thiện đáng kể về tính bền vững môi trường và hiệu suất kinh tế. Về cắt giảm chi phí, nhiều công ty thấy hiệu quả nguyên liệu được cải thiện đáng kể và khối lượng chất thải giảm mạnh, trực tiếp tiết kiệm chi phí vận hành đáng kể. Ví dụ, một nhà sản xuất đã tối ưu hóa thông số quy trình và chiến lược tái sử dụng, giảm tổn thất nguyên liệu hàng năm hơn 20% và tăng biên lợi nhuận ròng hơn 10%.<br>Về môi trường, việc giảm lãng phí vật liệu và tiêu thụ năng lượng cũng làm giảm đáng kể phát thải carbon và lượng chất thải của doanh nghiệp, nâng cao uy tín bền vững. Sự tương phản trước và sau rất rõ ràng: <strong>chi phí thấp hơn, lợi nhuận tăng và dấu chân carbon giảm</strong>. Nhiều công ty không chỉ thấy phục hồi lợi nhuận trong báo cáo tài chính mà còn đạt kết quả xuất sắc trong báo cáo bền vững. <strong>Tóm lại, MFCA giúp lãng phí có thể truy vết và cải tiến dựa trên bằng chứng, trở thành động lực quan trọng cho doanh nghiệp hướng tới vận hành xanh bền vững.</strong></p><p><strong>Câu hỏi thường gặp</strong></p><p><strong>H: Ngành nào phù hợp để triển khai MFCA?</strong><br>Đ: MFCA đã được áp dụng thành công trong sản xuất bia, dệt may, dược phẩm và nhiều ngành sản xuất khác. Thực tế, bất kỳ công ty nào mà nguyên liệu và năng lượng là động lực chi phí chính—như gia công kim loại, lắp ráp điện tử và chế biến thực phẩm—đều có thể hưởng lợi từ MFCA. MFCA không bị giới hạn bởi quy mô ngành; từ doanh nghiệp vừa và nhỏ đến tập đoàn lớn, tất cả đều có thể sử dụng phương pháp này để phát hiện lãng phí chi phí.</p><p><strong>H: Cần những nguồn lực gì để triển khai MFCA?</strong><br>Đ: Chúng tôi khuyến nghị thành lập đội ngũ đa chức năng (quản lý, sản xuất, tài chính, kỹ thuật, v.v.) để cùng thúc đẩy MFCA. Dữ liệu quy trình sản xuất phải được thu thập, bao gồm mức sử dụng nguyên liệu, tiêu thụ năng lượng và chi phí vật liệu, nhân công, xử lý chất thải tương ứng. Phần mềm quản lý kế toán hoặc kỹ thuật cũng có thể hỗ trợ xây dựng mô hình dòng vật liệu và chi phí.</p><p><strong>H: Mất bao lâu để thấy kết quả sau khi triển khai?</strong><br>Đ: Doanh nghiệp thường thấy kết quả sơ bộ trong vài tháng. Sau khi hoàn thành phân tích ban đầu và thực hiện kế hoạch cải tiến, tỷ lệ tổn thất vật liệu giảm và hiệu quả năng lượng cải thiện. Với tối ưu hóa liên tục và đánh giá định kỳ, doanh nghiệp tích lũy thêm tiết kiệm chi phí và lợi ích vận hành bền vững về lâu dài.</p><hr><p>Bạn muốn <strong>cắt giảm chi phí</strong> và <strong>nâng cao năng lực cạnh tranh</strong> đồng thời dẫn đầu trong phát triển bền vững? Đội ngũ chuyên gia MFCA của EverLab360 sẽ đồng hành cùng bạn. Chúng tôi cung cấp dịch vụ tư vấn triển khai MFCA toàn diện, từ phân tích dữ liệu đến phát triển kế hoạch cải tiến, hỗ trợ doanh nghiệp trong toàn bộ quy trình xác định vấn đề và phát triển biện pháp đối phó. Đặt lịch <strong>tư vấn</strong> ngay—chúng tôi sẽ thiết kế kế hoạch triển khai MFCA tùy chỉnh cho bạn, trả lời các câu hỏi về tình huống thực tiễn và giúp bạn bắt đầu con đường kinh doanh xanh, hiệu quả!</p>"
+  },
+  "synesgy": {
+    "title": "Synesgy",
+    "body": "<p><strong>Nền tảng tự đánh giá bền vững ESG doanh nghiệp một cửa</strong></p><p><a href=\"https://service.synesgy.com/tw/\">Synesgy</a> là nền tảng tự đánh giá và chứng nhận ESG toàn cầu do CRIF phát triển, giúp doanh nghiệp hiểu toàn diện hiệu suất bền vững của mình. Doanh nghiệp chỉ cần hoàn thành bảng câu hỏi trực tuyến bao gồm các chủ đề chuỗi cung ứng và quy trình nội bộ để nhanh chóng hoàn thành tự chẩn đoán trải dài qua các chiều quản lý, môi trường, xã hội, quản trị và các chiều khác. Hệ thống tạo ngay điểm ESG và báo cáo phân tích trực quan, đồng thời trao chứng nhận Synesgy phù hợp với các tiêu chuẩn quốc tế như SDGs, GRI và ESRS. Doanh nghiệp có thể tích hợp chứng chỉ trên website hoặc mạng xã hội để thể hiện cam kết bền vững với khách hàng và nhà đầu tư.</p><p><strong>Synesgy là gì?</strong></p><p>Nền tảng Synesgy, do cơ quan chấm điểm tín dụng toàn cầu CRIF ra mắt, là công cụ số cho phép doanh nghiệp và nhà cung cấp tự đánh giá hiệu suất bền vững. Nền tảng hỗ trợ hơn 25 ngôn ngữ tại nhiều quốc gia và khu vực. Nền tảng cung cấp bảng câu hỏi đánh giá bao gồm năm chiều bền vững: \"Quản lý & Quản trị, Môi trường, Xã hội và Chủ đề theo ngành,\" với phiên bản đơn giản hóa dành cho doanh nghiệp vừa và nhỏ dưới 50 nhân viên. Thông qua Synesgy, doanh nghiệp có thể tự đánh giá, thu thập và quản lý dữ liệu ESG cho bản thân và nhà cung cấp, xác định rủi ro tiềm ẩn và lập kế hoạch lộ trình cải tiến.</p><p><strong>Tại sao chọn Synesgy?</strong></p><p>Nền tảng Synesgy mang lại nhiều ưu điểm khiến nó trở thành lựa chọn ưu tiên cho doanh nghiệp thúc đẩy phát triển bền vững. Thứ nhất, với kinh nghiệm chấm điểm phong phú và phương pháp luận nghiêm ngặt của CRIF, thiết kế bảng câu hỏi tham chiếu các tiêu chuẩn quốc tế bao gồm GRI, UN Global Compact và Carbon Disclosure Project. Năm 2024, nền tảng nhận chứng nhận GRI chính thức, đảm bảo kết quả đánh giá có độ tin cậy và khả năng so sánh quốc tế. Thứ hai, Synesgy hỗ trợ đa ngôn ngữ và ứng dụng xuyên biên giới, hiện đã triển khai tại hơn 60 quốc gia. Nền tảng cung cấp bảng điều khiển dữ liệu trực quan và phân tích chuẩn ngành, cho phép giám sát thời gian thực hiệu suất ESG của doanh nghiệp và chuỗi cung ứng, nhanh chóng xác định rủi ro vận hành hoặc danh tiếng. Cuối cùng, sau khi hoàn thành bảng câu hỏi, doanh nghiệp nhận chứng chỉ Synesgy phù hợp với tiêu chuẩn quốc tế, có thể công bố trên website hoặc kênh mạng xã hội để nâng cao niềm tin bên ngoài và hình ảnh thương hiệu. Tóm lại, nền tảng Synesgy không chỉ giúp doanh nghiệp đáp ứng yêu cầu tuân thủ mới nhất mà còn cung cấp thông tin chi tiết dữ liệu bền vững toàn diện, đáng tin cậy, củng cố năng lực cạnh tranh và tính minh bạch của doanh nghiệp.</p><p><strong>Cách hoạt động: Quy trình đánh giá & Nội dung báo cáo</strong></p><p>Quy trình sử dụng Synesgy đơn giản và trực quan:</p><ol><li><strong>Đăng ký và nhập dữ liệu:</strong> Quản lý doanh nghiệp tạo tài khoản trên nền tảng, nhập thông tin vận hành cơ bản và cơ cấu tổ chức, hoàn thành các chỉ số dữ liệu liên quan.</li><li><strong>Hoàn thành bảng câu hỏi ESG:</strong> Trả lời bảng câu hỏi được thiết kế riêng dựa trên năm chiều (quản lý, môi trường, xã hội, quản trị, ngành). Hệ thống tự động cung cấp phiên bản tiêu chuẩn hoặc đơn giản hóa dựa trên quy mô doanh nghiệp.</li><li><strong>Nhận báo cáo và chứng chỉ:</strong> Hệ thống tự động tạo điểm ESG, biểu đồ chỉ số chính và báo cáo phân tích, đồng thời trao chứng chỉ Synesgy phù hợp với tiêu chuẩn quốc tế. Doanh nghiệp có thể công bố chứng chỉ trên website chính thức hoặc mạng xã hội để thể hiện cam kết bền vững thông qua hành động cụ thể.<br>Thông qua các báo cáo này, quản lý có thể hiểu rõ điểm mạnh và điểm yếu của doanh nghiệp và chuỗi cung ứng, đồng thời phát triển chiến lược bền vững dựa trên các khuyến nghị cải tiến do hệ thống cung cấp.</li></ol><p><strong>Đối tượng người dùng & Kịch bản ứng dụng</strong></p><p>Synesgy phục vụ phạm vi người dùng rộng: từ tập đoàn đa quốc gia đến nhà cung cấp vừa và nhỏ. <strong>Quản lý chuỗi cung ứng</strong> là một trong các chức năng cốt lõi: các doanh nghiệp lớn trong sản xuất và bán lẻ có thể sử dụng nền tảng để đánh giá ESG nhà cung cấp thượng và hạ nguồn, xác định rủi ro tiềm ẩn và củng cố tuân thủ; nhà cung cấp có thể tự đánh giá và nhận thêm khuyến nghị cải tiến. Ngoài ra, các tổ chức tài chính như ngân hàng và công ty bảo hiểm có thể sử dụng Synesgy làm công cụ chấm điểm rủi ro bền vững khách hàng; hiệp hội ngành có thể sử dụng nền tảng để giúp thành viên nâng cao tiêu chuẩn bền vững. Tóm lại, bất kỳ tổ chức nào tập trung vào trách nhiệm xã hội doanh nghiệp và chuyển đổi bền vững đều có thể hưởng lợi từ nền tảng Synesgy.</p><p><strong>Kết quả & Giá trị của Synesgy</strong></p><p>Đến nay, Synesgy đã triển khai tại hơn 90 quốc gia, phục vụ hàng trăm nghìn doanh nghiệp và hàng nghìn tổ chức tài chính. Thông qua nền tảng, doanh nghiệp có thể định lượng hiệu suất ESG và có được điểm ESG rõ ràng cùng lộ trình cải tiến. Chứng chỉ Synesgy nhận được sau khi hoàn thành đánh giá phù hợp với các tiêu chuẩn quốc tế như GRI và SDGs; doanh nghiệp có thể hiển thị chứng chỉ trên website hoặc nền tảng mạng xã hội để thể hiện cam kết và thành tựu về các vấn đề bền vững với khách hàng và nhà đầu tư. Dữ liệu và chứng nhận này không chỉ nâng cao danh tiếng thương hiệu mà còn giúp doanh nghiệp đáp ứng yêu cầu tuân thủ quốc tế và củng cố năng lực cạnh tranh thị trường. Tóm lại, Synesgy cho phép \"kết quả đánh giá trực quan hóa, kế hoạch cải tiến cụ thể và hiệu suất bền vững quốc tế hóa,\" nâng cao thực chất năng lực cạnh tranh bền vững.</p><p><strong>Câu hỏi thường gặp (FAQ)</strong></p><p><strong>H: Nền tảng Synesgy bao gồm những chiều đánh giá nào?</strong><br>Đ: Bảng câu hỏi Synesgy bao gồm năm chiều: Quản lý, Môi trường, Xã hội, Quản trị và Chủ đề theo ngành. Hệ thống cũng cung cấp bảng câu hỏi đơn giản hóa cho doanh nghiệp vừa và nhỏ dưới 50 nhân viên, cho phép doanh nghiệp mọi quy mô dễ dàng tự đánh giá.</p><p><strong>H: Bạn nhận được kết quả gì sau khi hoàn thành đánh giá?</strong><br>Đ: Sau khi hoàn thành bảng câu hỏi, nền tảng cung cấp ngay điểm ESG của doanh nghiệp và báo cáo phân tích trực quan. Hệ thống cũng trao chứng chỉ Synesgy phù hợp với tiêu chuẩn quốc tế; doanh nghiệp có thể công bố chứng chỉ trên website hoặc mạng xã hội để thể hiện cam kết và thành tựu về các vấn đề bền vững.</p><p><strong>H: Synesgy có tuân thủ tiêu chuẩn báo cáo bền vững quốc tế không?</strong><br>Đ: Có. Thiết kế bảng câu hỏi Synesgy tham chiếu các khung quốc tế bao gồm GRI, UN Global Compact, Carbon Disclosure Project (CDP) và EU Taxonomy. Phương pháp luận bảng câu hỏi của CRIF, do CRIF Ratings phát triển, nhận chứng nhận GRI chính thức năm 2024, đảm bảo nội dung và kết quả đánh giá phù hợp với thực hành tốt nhất toàn cầu.<br><br>Website Synesgy Đài Loan: <a href=\"https://service.synesgy.com/tw/\">https://service.synesgy.com/tw/</a></p><hr><p>Nếu bạn sẵn sàng thúc đẩy chuyển đổi bền vững doanh nghiệp, hãy liên hệ chuyên gia bền vững của chúng tôi qua EVERLAB360. Chúng tôi sẽ giúp doanh nghiệp hiểu các tính năng nền tảng Synesgy và kích hoạt tài khoản, cung cấp tư vấn và hỗ trợ kỹ thuật để nhanh chóng thiết lập quy trình tự đánh giá ESG và nhận chứng nhận. Hành động ngay—hãy để Synesgy trở thành công cụ mới cho quản lý bền vững doanh nghiệp của bạn!</p>"
+  },
+  "contact": {
+    "title": "Liên hệ chúng tôi"
+  },
+  "blog_titles": {
+    "歐洲氣候法是什麼？一次看懂-2026-最新減碳目標與法.html": "Luật khí hậu châu Âu là gì? Mục tiêu giảm phát thải 2026 và tiến độ quy định giải thích",
+    "iso-17298-是什麼？2026-最受關注的生物多樣性國際標準一次.html": "ISO 17298 là gì? Tiêu chuẩn quốc tế về đa dạng sinh học được quan tâm nhất năm 2026",
+    "vsme-是什麼？中小企業如何用一份報告接軌歐盟永續.html": "VSME là gì? Doanh nghiệp vừa và nhỏ căn chỉnh quy định bền vững EU chỉ với một báo cáo",
+    "認識-verra、gs-之後，下一步呢？從誠信標章、數位監管.html": "Sau Verra và Gold Standard: Nhãn tín nhiệm, giám sát số và các trường hợp thị trường mới nhất",
+    "自願性碳市場怎麼選？一次看懂-verra-與-gold-standard-的差異與.html": "Cách chọn thị trường carbon tự nguyện: Khác biệt Verra vs. Gold Standard và ứng dụng doanh nghiệp",
+    "eu-omnibus-是什麼？歐盟-esg-法規大簡化與最新政策一次看懂.html": "Gói EU Omnibus là gì? Đơn giản hóa quy định ESG EU và chính sách mới nhất giải thích",
+    "歐盟包裝法-ppwr-是什麼？一次看懂新規則、企業案例.html": "PPWR EU là gì? Quy tắc bao bì mới, trường hợp doanh nghiệp và tác động chuỗi cung ứng toàn cầu",
+    "歐盟零毀林法規（eudr）延至2026年上路：哪些產品受影.html": "Quy định chống phá rừng EU (EUDR) hoãn đến 2026: Sản phẩm nào bị ảnh hưởng và cách tránh bị từ chối?",
+    "esg的「s」寫不出來？影響力採購，讓每一筆支出都.html": "Khó viết chữ \"S\" trong ESG? Mua sắm tác động biến mỗi khoản chi thành giá trị xã hội",
+    "什麼是綠色採購？企業與政府必懂的定義、法規與.html": "Mua sắm xanh là gì? Định nghĩa, quy định và điểm then chốt doanh nghiệp và chính phủ cần biết",
+    "永續採購是什麼？iso-20400-全解析及企業供應鏈永續與實.html": "Mua sắm bền vững là gì? ISO 20400 giải thích toàn diện cùng trường hợp chuỗi cung ứng và thực hành tốt nhất",
+    "為成功付費（pay-for-success-pfs）是什麼？一次看懂模式、案例.html": "Pay for Success (PFS) là gì? Mô hình, trường hợp và phát triển tại Đài Loan",
+    "告別碳盤查雙頭馬車！iso-與-ghg-protocol-合併，2026-企業邁向「.html": "Kết thúc kỷ nguyên kế toán carbon kép: ISO và GHG Protocol hợp nhất hướng tới tương lai kế toán carbon thống nhất năm 2026",
+    "gri-準則是什麼？企業永續報告為何都離不開它.html": "Tiêu chuẩn GRI là gì? Tại sao mọi báo cáo bền vững doanh nghiệp đều phụ thuộc vào nó",
+    "打造永續競爭力：dei-多元共融如何成為企業人才戰.html": "Xây dựng năng lực cạnh tranh bền vững: DEI trở thành lợi thế quyết định trong cuộc chiến nhân tài",
+    "2026-永續接軌最後通牒：為什麼你的-tcfd-報告書在-ifrs-s1-s2-準.html": "Hạn chót căn chỉnh bền vững 2026: Tại sao báo cáo TCFD của bạn có thể không đạt theo IFRS S1/S2",
+    "【2025-全球碳市場權威指南】從誠信危機到技術革命.html": "[Hướng dẫn thẩm quyền thị trường carbon toàn cầu 2025] Từ khủng hoảng tín nhiệm đến cách mạng công nghệ: Tiêu chuẩn tín chỉ carbon chất lượng cao và nhãn ICVCM",
+    "從空氣吸碳、從生質封碳：你必須認識的兩種碳移.html": "Từ không khí đến sinh khối: Hai công nghệ loại bỏ carbon bạn cần biết—DAC & BECCS",
+    "gri-啟動標準修訂：氣候變化、能源與貨幣流動報告.html": "GRI khởi động sửa đổi tiêu chuẩn: Báo cáo biến đổi khí hậu, năng lượng và dòng tiền bước vào giai đoạn mới",
+    "2050淨零轉型核心：深入解析歐盟綠色政綱（european-green-deal）.html": "Trung tâm chuyển đổi net zero 2050: Phân tích sâu tham vọng và chương mới của European Green Deal",
+    "碳有價時代來臨：企業如何以內部碳定價領跑未來.html": "Kỷ nguyên carbon có giá đã đến: Định giá carbon nội bộ giúp doanh nghiệp dẫn đầu tương lai",
+    "除了cbam，你更應該了解！台灣企業不可不知的美國.html": "Ngoài CBAM: Điều doanh nghiệp Đài Loan phải biết về \"thuế carbon\" Mỹ (Đạo luật CCA)",
+    "從「快時尚」到「慢時尚」的再思考.html": "Suy ngẫm lại thời trang: Từ thời trang nhanh đến thời trang chậm",
+    "穿出永續新態度：從「快時尚」到「慢時尚」的華.html": "Thời trang bền vững: Chuyển đổi thanh lịch từ thời trang nhanh sang thời trang chậm",
+    "台灣與sdgs：17項永續發展目標與在地行動指南.html": "Đài Loan và SDGs: 17 Mục tiêu Phát triển Bền vững và hướng dẫn hành động địa phương",
+    "碳盤查進階指南：從「範疇」到「類別」的深度解.html": "Hướng dẫn kiểm kê carbon nâng cao: Phân tích sâu từ Phạm vi đến Danh mục",
+    "認識碳足跡的三大範疇：範疇一、範疇二與範疇三.html": "Hiểu ba phạm vi dấu chân carbon: Phạm vi 1, Phạm vi 2 và Phạm vi 3 giải thích",
+    "從線性到循環：認識循環經濟的核心理念與商業實.html": "Từ tuyến tính đến tuần hoàn: Khái niệm cốt lõi kinh tế tuần hoàn và thực hành kinh doanh",
+    "確信、保證、查證、確證有什麼不同？一篇搞懂永.html": "Assurance, Verification và Attestation: Giải thích thuật ngữ báo cáo bền vững",
+    "什麼是「漂綠」與「噤綠」？破解永續迷霧，看穿.html": "Greenwashing và Greenhushing là gì? Xóa tan sương mù bền vững",
+    "【碳權、碳抵換、碳排許可】傻傻分不清？一次搞.html": "Tín chỉ carbon, bù đắp và giấy phép phát thải: Ba thuật ngữ then chốt thị trường carbon giải thích",
+    "什麼是碳權？解碼「碳有價」的時代.html": "Tín chỉ carbon là gì? Giải mã kỷ nguyên carbon có giá",
+    "永續不是說說而已：帶你認識國際esg評級機構與差.html": "Bền vững không chỉ là lời nói: Các cơ quan xếp hạng ESG quốc tế và sự khác biệt",
+    "生物炭是什麼？為什麼全球企業瘋狂搶投資？一次.html": "Biochar là gì? Tại sao doanh nghiệp toàn cầu đua nhau đầu tư—Ứng dụng và tiềm năng giải thích",
+    "一文看懂-csrd、esrs、cs3d：歐盟永續三劍客，企業不可不.html": "CSRD, ESRS và CSDDD giải thích: Bộ ba quy định bền vững EU mọi doanh nghiệp phải biết",
+    "【懶人包】什麼是-ifrs-s1-s2？你需要知道的永續揭露新.html": "[Hướng dẫn nhanh] IFRS S1/S2 là gì? Tiêu chuẩn công bố bền vững mới bạn cần biết",
+    "揭露未來風險的三重宇宙：tcfd、tnfd、tisfd-一文搞懂差異.html": "Ba vũ trụ công bố rủi ro tương lai: Khác biệt và xu hướng TCFD, TNFD và TISFD",
+    "重新詮釋影響力投資：它和csr、esg有什麼不一樣？.html": "Đầu tư tác động được định nghĩa lại: Khác gì so với CSR và ESG",
+    "財務、ai-與永續的三重整合：企業邁向淨零的關鍵.html": "Tài chính, AI và bền vững: Tích hợp ba chiều then chốt để doanh nghiệp hướng tới net zero",
+    "只盤查碳排還不夠！用iso-14051搭配iso-14064與14067，啟動企業減.html": "Chỉ kiểm kê carbon là chưa đủ: ISO 14051 kết hợp ISO 14064 và 14067 để khởi động cách mạng hiệu quả phát thải",
+    "iso-14064-1、iso-14064-2、iso-14067-和-iso-14051-的深度比較.html": "ISO 14064-1, ISO 14064-2, ISO 14067 và ISO 14051: So sánh chuyên sâu",
+    "中小企業也能做好-esg！從混亂資料到成長策略，synesgy.html": "Doanh nghiệp vừa và nhỏ cũng làm được ESG: Từ dữ liệu rời rạc đến chiến lược tăng trưởng—Synesgy hỗ trợ thế nào",
+    "cfa-esg-證照更名為「可持續投資證書」：投資人該如何.html": "Chứng chỉ CFA ESG đổi tên thành \"Certificate in Sustainable Investing\": Nhà đầu tư cần biết gì",
+    "協助企業應對氣候風險，邁向永續未來.html": "Hỗ trợ doanh nghiệp ứng phó rủi ro khí hậu, hướng tới tương lai bền vững",
+    "2025智慧城市展與2050淨零城市展圓滿落幕，感謝鑫判科.html": "Triển lãm Thành phố Thông minh 2025 & Thành phố Net Zero 2050 kết thúc thành công: Cảm ơn BeAmazed Tech và tất cả người tham dự",
+    "everlab360-logo設計背後的故事.html": "Câu chuyện đằng sau thiết kế logo EverLab360"
+  }
+}

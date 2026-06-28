@@ -1,0 +1,219 @@
+{
+  "ui": {
+    "company_name": "EverLab360 Inc.",
+    "tagline": "Your Partner to Sustainability",
+    "nav": {
+      "about": "About",
+      "team": "Our Team",
+      "service": "Service",
+      "collaborators": "Collaborators",
+      "reviews": "Reviews",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "footer": {
+      "quick_links": "Quick Links",
+      "more": "More",
+      "contact": "Contact",
+      "tax_id_label": "Tax ID",
+      "copyright": "© 2024-2026 EverLab360 Inc. All rights reserved."
+    },
+    "newsletter_title": "Subscribe to Our Newsletter",
+    "newsletter_desc": "Get the latest ESG trends, regulatory updates, and practical case studies",
+    "visit_us": "Visit Us",
+    "view_all_posts": "View All Posts ({count})",
+    "home": "Home",
+    "top": "Top",
+    "gui_number": "GUI number: 93522258",
+    "address_en": "No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
+    "address_zh": "臺北市中正區博愛路104號",
+    "address_floor": "3F, No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
+    "line": "Line: @573ogwrs",
+    "email": "everlab360@gmail.com"
+  },
+  "index": {
+    "title": "EverLab360 Inc. - Your Partner to Sustainability",
+    "hero_title": "Your Partner to Sustainability",
+    "hero_desc": "<strong>EverLab360</strong> is a strategic consulting firm focused on sustainable transformation. We help businesses integrate ESG, branding, and operations to build business models that deliver both social value and market competitiveness.",
+    "team_section_title": "Meet Our Team",
+    "team_belief_intro": "We believe:",
+    "team_belief": [
+      "Sustainability is not an add-on—it is a strategy for business survival and growth.",
+      "An ESG report is not the goal—it is the starting point of transformation.",
+      "Consultants should not only give advice—they must stay with you until results are delivered."
+    ],
+    "team": [
+      {
+        "name": "Evvon Wu",
+        "bio": "15 years of nonprofit sector experience, skilled in inter-organizational communication and collaboration, and adept at presenting value through social value reports. Holds certifications in corporate sustainability management and executive coaching."
+      },
+      {
+        "name": "Mina Chen",
+        "bio": "15 years of consulting experience with extensive work supporting academic research surveys. Skilled in brand and marketing diagnostics, strategy planning, business intelligence analysis, and business model development."
+      },
+      {
+        "name": "Daniel Hsiao",
+        "bio": "8 years of consulting experience spanning executive recruitment, with insight into industry structures and workforce development trends. Integrates brand consulting strategies to guide Taiwanese businesses through transformation and growth."
+      },
+      {
+        "name": "Kevin Kuo",
+        "bio": "15 years as a CSR consultant, guiding large enterprises in sustainability planning and reporting, with extensive experience in transitioning traditional industries toward sustainable practices."
+      },
+      {
+        "name": "Helen Lien",
+        "bio": "Executive Assistant at EverLab360."
+      }
+    ],
+    "services": [
+      {
+        "title": "Individual Products/Services – Verification & Optimization",
+        "items": [
+          "Government subsidy assistance",
+          "Corporate social responsibility strategy planning",
+          "Social value assessment",
+          "Material Flow Cost Accounting: MFCA (ISO 14051)",
+          "Carbon/water footprint verification and third-party validation",
+          "GRI-certified international green label: Synesgy"
+        ]
+      },
+      {
+        "title": "Corporate Sustainability – ESG Resilience",
+        "items": [
+          "Corporate sustainability health check",
+          "Sustainability coaching and consulting",
+          "Corporate in-house training",
+          "GRI-compliant sustainability reports / dynamic web-based sustainability reports",
+          "Carbon inventory certification / greenhouse gas emissions verification"
+        ]
+      },
+      {
+        "title": "Corporate Sustainability – Brand Resilience",
+        "items": [
+          "Sustainable business models",
+          "Sustainable corporate branding",
+          "Sustainable leadership branding",
+          "Sustainable PR crisis solutions"
+        ]
+      },
+      {
+        "title": "Impact Amplification – Sustainability Promotion",
+        "items": [
+          "Public welfare matchmaking",
+          "Sustainable marketing strategy",
+          "ESG public relations strategy",
+          "Domestic and international ESG award applications",
+          "ESG media exposure",
+          "Corporate image video services"
+        ]
+      }
+    ],
+    "collaborators": {
+      "stats": [
+        "Supported <strong>100+</strong> clients across traditional industries, technology, and the nonprofit sector",
+        "Achieved over <strong>80%</strong> success rate in grant applications and certifications",
+        "Certified and experienced in <strong>GRI, B Corp, and TCFD</strong> frameworks"
+      ],
+      "business_partners_title": "Business Partners",
+      "business_partners": [
+        "BeAmazed Tech BAMZD",
+        "Gubg-Ho Culture",
+        "Winjus Law Firm",
+        "ChiHe Brand Consulting",
+        "Axtim",
+        "Jooin Social Enterprise",
+        "Taiwan Environmental Management Accounting Association",
+        "Hand e.V.",
+        "Hegu Creative"
+      ],
+      "past_clients_title": "Past Clients",
+      "past_clients": [
+        {
+          "category": "Research/Education Institutions",
+          "items": "National Yang Ming Chiao Tung University, National Taiwan University of Science and Technology, National Kaohsiung University of Science and Technology, National Taiwan University, Industrial Technology Research Institute (ITRI), Institute for Information Industry (III)"
+        },
+        {
+          "category": "State-Owned Enterprises",
+          "items": "CPC Corporation Taiwan, Taiwan Sugar Corporation, CSBC Corporation Taiwan, Taiwan Power Company, Taoyuan General Hospital"
+        },
+        {
+          "category": "Private Enterprises",
+          "items": "LCY Group, Wistron Medical Technology, Amway Taiwan, Yulon Motor, Cheng Loong Corp., TSRC Corporation, and more"
+        },
+        {
+          "category": "Nonprofit Organizations",
+          "items": "A-Chang Sheltered Workshop, Ming Yi Foundation, Father Joseph Beu Foundation"
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "text": "This consulting session was incredibly valuable. While we have always focused on positioning other companies, we often put ourselves last. Through this discussion, we had the opportunity to thoroughly examine our own brand and rediscover our original passion and purpose. The entire process was warm and open, allowing me to discuss honestly and clarify my goals.",
+        "author": "— Director Liu, ChiHe Design"
+      },
+      {
+        "text": "It clarified what is a vision versus what is an execution method—each step becoming clearer. I now understand how to explain our sustainability value to others.",
+        "author": "— Founder, Tour Eco-Fair Studio"
+      }
+    ],
+    "blog_subtitle": "Watch, Read, Listen"
+  },
+  "mfca": {
+    "title": "Material Flow Cost Accounting (MFCA)",
+    "body": "<p>In today's highly competitive manufacturing environment, companies often focus solely on product sales profits while overlooking the substantial hidden losses in production processes. Material waste, energy consumption, and waste disposal costs can significantly erode profitability and environmental performance. <strong>Material Flow Cost Accounting (MFCA)</strong> is an innovative environmental accounting tool that originated in Germany in the 1990s and was incorporated into the ISO 14051 international standard in 2011. Global case studies demonstrate that implementing MFCA can simultaneously improve both economic performance and environmental sustainability.</p><p><strong>What is Material Flow Cost Accounting (MFCA)?</strong></p><p>Material Flow Cost Accounting (MFCA) is an <strong>environmental management accounting</strong> method that tracks the flow of raw materials, energy, and waste through each production process and converts them directly into costs for analysis. MFCA divides all output into two categories: \"products\" (saleable finished goods that generate profit) and \"material losses\" (resources consumed and waste generated in the process). Unlike traditional cost accounting, which treats waste merely as a disposal expense, MFCA also allocates related raw material costs, energy costs, labor, and overhead proportionally to waste. This dual \"material flow + monetary flow\" analysis enables companies to clearly understand resource usage and hidden costs at each production stage, providing precise data support for developing energy-saving, emissions-reduction, and cost-reduction improvement strategies.</p><p><strong>Why Do Businesses Need MFCA?</strong></p><p>MFCA delivers the following key benefits:</p><p><strong>Uncover Hidden Costs:</strong> MFCA thoroughly analyzes raw material, energy, and waste costs in manufacturing processes, identifying the most wasteful stages for improvement. This analysis transforms previously \"invisible waste\" into quantifiable data, achieving <strong>cost reduction and profit improvement</strong>.</p><p><strong>Enhance Decision Transparency:</strong> Through detailed material flow and cost analysis, MFCA enables managers to clearly understand resource usage and financial impacts at each production stage. This transparency strengthens the basis for decisions on process technology, quality control, product design, and other areas, making improvement directions more targeted.</p><p><strong>Support Sustainable Operations:</strong> MFCA aligns with integrated <strong>green accounting</strong> principles, significantly improving resource efficiency and reducing corporate carbon emissions. Companies implementing MFCA generally achieve win-win outcomes in both environmental and economic performance. For example, by reducing raw material waste and optimizing energy use, companies save costs while communicating environmental commitment to customers, supporting long-term sustainable operations.</p><p>These benefits make MFCA a powerful tool for improving productivity and environmental performance. An increasing number of SMEs and industry leaders are investing in MFCA implementation, creating substantial cost savings and environmental improvements.</p><p><strong>MFCA Implementation Process</strong></p><p>Building MFCA requires cross-departmental collaboration. The following is a common implementation process:</p><ol><li><strong>Build Team and Consensus:</strong> Initiated by senior management, integrate management, manufacturing, finance, quality, and other departments into an MFCA project team. Ensure all units understand MFCA's purpose and value, build consensus, and define clear implementation goals.</li><li><strong>Define Scope and Targets:</strong> Select products or processes with high cost ratios or severe losses as analysis targets. Draw production flow diagrams and material flow models, clearly marking raw material and energy inputs, outputs, and waste flows at each production step.</li><li><strong>Collect Data and Code:</strong> Based on the material flow model, record raw material quantities, energy quantities, outputs, and waste quantities at each process step, while calculating corresponding costs. Required data includes raw material costs, energy costs, labor costs, and waste disposal costs.</li><li><strong>Analyze Losses and Develop Improvements:</strong> Use MFCA to convert inputs and outputs at each process step into monetary values, evaluating quantity and financial losses at each stage. After identifying the highest-loss stages, the team discusses and develops specific source reduction and waste minimization improvement plans.</li><li><strong>Implement and Continuously Optimize:</strong> Put improvement measures into practice and continuously track results. By incorporating MFCA into regular management and performance evaluation, companies can use data-driven approaches to continuously optimize production processes and resource allocation, achieving lean and sustainable operations.</li></ol><p>This process can be adjusted according to company size and needs, but the core spirit is \"plan–do–check–act.\"</p><p><strong>Changes Brought by MFCA</strong><br>After implementing MFCA, companies achieve significant improvements in both <strong>economic benefits and environmental performance</strong>. Research shows that companies adopting MFCA see substantial improvements in environmental sustainability and economic performance. In terms of cost reduction, many companies find significantly improved raw material efficiency and dramatically reduced waste volumes, directly saving substantial operating expenses. For example, one manufacturer optimized process parameters and reuse strategies, reducing annual raw material losses by over 20% and increasing net profit margins by more than 10%.<br>Environmentally, reducing material waste and energy consumption also significantly lowers corporate carbon emissions and waste generation, enhancing sustainability credentials. The before-and-after contrast is clear: <strong>lower costs, increased profits, and reduced carbon footprints</strong>. Many companies see not only profit recovery in financial statements but also outstanding results in sustainability reports. <strong>In summary, MFCA makes waste traceable and improvements evidence-based, becoming an important driver for companies moving toward green sustainable operations.</strong></p><p><strong>Frequently Asked Questions</strong></p><p><strong>Q: Which industries are suitable for MFCA implementation?</strong><br>A: MFCA has been successfully applied in brewing, textiles, pharmaceuticals, and many other manufacturing industries. In fact, any company where raw materials and energy are major cost drivers—such as metal processing, electronics assembly, and food processing—can benefit from MFCA. MFCA is not limited by industry size; from SMEs to large conglomerates, all can use this method to reveal cost waste.</p><p><strong>Q: What resources are needed to implement MFCA?</strong><br>A: We recommend forming a cross-functional team (management, manufacturing, finance, engineering, etc.) to jointly drive MFCA. Production process data must be collected, including raw material usage, energy consumption, and corresponding material, labor, and waste disposal costs. Accounting or engineering management software can also assist in building material flow and cost models.</p><p><strong>Q: How long until results are visible after implementation?</strong><br>A: Companies typically see preliminary results within months. After completing initial analysis and executing improvement plans, material loss rates decrease and energy efficiency improves. With continuous optimization and regular review, companies accumulate more cost savings and sustainable operations benefits over the long term.</p><hr><p>Want to <strong>reduce costs</strong> and <strong>enhance competitiveness</strong> while taking the lead in sustainable development? EverLab360's MFCA expert team will partner with you. We provide comprehensive MFCA implementation consulting services, from data analysis to improvement plan development, assisting companies throughout the process to identify problems and develop countermeasures. Book a <strong>consultation</strong> now—we will design a customized MFCA implementation plan for you, answer practical case questions, and help you embark on a green, efficient business path!</p>"
+  },
+  "synesgy": {
+    "title": "Synesgy",
+    "body": "<p><strong>One-Stop Corporate ESG Sustainability Self-Assessment Platform</strong></p><p><a href=\"https://service.synesgy.com/tw/\">Synesgy</a> is a global ESG self-assessment and certification platform developed by CRIF that helps companies comprehensively understand their sustainability performance. Companies simply complete an online questionnaire covering supply chain and internal process topics to quickly complete a self-diagnosis spanning management, environmental, social, governance, and other dimensions. The system instantly generates ESG scores and visual analytics reports, and awards Synesgy certification aligned with international standards such as the SDGs, GRI, and ESRS. Companies can integrate certificates on their websites or social media to demonstrate sustainability commitment to customers and investors.</p><p><strong>What is Synesgy?</strong></p><p>The Synesgy platform, launched by global credit scoring agency CRIF, is a digital tool that enables companies and suppliers to self-assess sustainability performance. It supports more than 25 languages across multiple countries and regions. The platform provides assessment questionnaires covering five sustainability dimensions: \"Management & Governance, Environment, Social, and Industry-Specific Topics,\" with a simplified version designed for SMEs with fewer than 50 employees. Through Synesgy, companies can conduct self-assessments, collect and manage ESG data for themselves and their suppliers, identify potential risks, and plan improvement pathways.</p><p><strong>Why Choose Synesgy?</strong></p><p>The Synesgy platform offers multiple advantages that make it a preferred choice for companies driving sustainable development. First, backed by CRIF's extensive rating experience and rigorous methodology, questionnaire design references international standards including GRI, the UN Global Compact, and the Carbon Disclosure Project. In 2024, it received official GRI certification, ensuring assessment results have credibility and international comparability. Second, Synesgy supports multilingual and cross-border applications, currently deployed in over 60 countries. It provides intuitive data dashboards and industry benchmark analysis, enabling real-time monitoring of company and supply chain ESG performance and rapid identification of operational or reputational risks. Finally, upon completing the questionnaire, companies receive Synesgy certification certificates aligned with international standards, which can be published on websites or social channels to enhance external trust and brand image. In summary, the Synesgy platform not only helps companies meet the latest compliance requirements but also provides comprehensive, reliable sustainability data insights, strengthening corporate competitiveness and transparency.</p><p><strong>How It Works: Assessment Process & Report Contents</strong></p><p>The Synesgy usage process is simple and intuitive:</p><ol><li><strong>Register and Input Data:</strong> Company managers create an account on the platform, input basic operational information and organizational structure, and complete relevant data indicators.</li><li><strong>Complete the ESG Questionnaire:</strong> Answer tailored questionnaires based on five dimensions (management, environment, social, governance, industry). The system automatically provides standard or simplified versions based on company size.</li><li><strong>Receive Report and Certificate:</strong> The system automatically generates ESG scores, charts of key indicators, and analytical reports, and awards Synesgy certificates aligned with international standards. Companies can publish certificates on official websites or social media to demonstrate sustainability commitment through concrete action.<br>Through these reports, managers can clearly understand company and supply chain strengths and weaknesses, and develop sustainability strategies based on system-provided improvement recommendations.</li></ol><p><strong>Target Users & Application Scenarios</strong></p><p>Synesgy serves a broad range of users: from multinational corporations to small and medium suppliers. <strong>Supply chain management</strong> is one of its core functions: large enterprises in manufacturing and retail can use the platform to conduct ESG assessments of upstream and downstream suppliers, identify potential risks, and strengthen compliance; suppliers can conduct self-assessments and receive further improvement recommendations. Additionally, financial institutions such as banks and insurers can use Synesgy as a customer sustainability risk scoring tool; industry associations can use the platform to help member companies improve sustainability standards. In short, any organization focused on corporate social responsibility and sustainable transformation can benefit from the Synesgy platform.</p><p><strong>Synesgy Results & Value</strong></p><p>To date, Synesgy has been deployed in over 90 countries, serving hundreds of thousands of companies and thousands of financial institutions. Through the platform, companies can quantify ESG performance and obtain clear ESG scores and improvement pathways. Synesgy certificates obtained after completing assessments align with international standards such as GRI and the SDGs; companies can display certificates on websites or social platforms to demonstrate commitment and achievements on sustainability issues to customers and investors. This data and certification not only enhance brand reputation but also help companies meet international compliance requirements and strengthen market competitiveness. In summary, Synesgy enables \"visualized assessment results, concrete improvement plans, and internationalized sustainability performance,\" substantively enhancing sustainable competitiveness.</p><p><strong>Frequently Asked Questions (FAQ)</strong></p><p><strong>Q: What assessment dimensions does the Synesgy platform cover?</strong><br>A: Synesgy questionnaires cover five dimensions: Management, Environment, Social, Governance, and Industry-Specific topics. The system also provides a simplified questionnaire for SMEs with fewer than 50 employees, enabling companies of all sizes to easily conduct self-assessments.</p><p><strong>Q: What results do you receive after completing the assessment?</strong><br>A: After completing the questionnaire, the platform instantly provides the company's ESG score and visual analytics reports. The system also awards Synesgy certificates aligned with international standards; companies can publish certificates on websites or social media to showcase their commitment and achievements on sustainability issues.</p><p><strong>Q: Does Synesgy comply with international sustainability reporting standards?</strong><br>A: Yes. Synesgy questionnaire design references international frameworks including GRI, the UN Global Compact, the Carbon Disclosure Project (CDP), and the EU Taxonomy. CRIF's questionnaire methodology, developed by CRIF Ratings, received official GRI certification in 2024, ensuring assessment content and results align with global best practices.<br><br>Synesgy Taiwan website: <a href=\"https://service.synesgy.com/tw/\">https://service.synesgy.com/tw/</a></p><hr><p>If you are ready to drive corporate sustainable transformation, contact our sustainability experts through EVERLAB360. We will help your company understand Synesgy platform features and activate an account, providing consulting and technical support to help you quickly establish an ESG self-assessment process and obtain certification. Take action now—let Synesgy become your new tool for corporate sustainability management!</p>"
+  },
+  "contact": {
+    "title": "Contact Us"
+  },
+  "blog_titles": {
+    "歐洲氣候法是什麼？一次看懂-2026-最新減碳目標與法.html": "What Is the European Climate Law? 2026 Emission Targets & Regulatory Progress Explained",
+    "iso-17298-是什麼？2026-最受關注的生物多樣性國際標準一次.html": "What Is ISO 17298? The 2026 Biodiversity Standard Everyone Is Watching",
+    "vsme-是什麼？中小企業如何用一份報告接軌歐盟永續.html": "What Is VSME? How SMEs Can Align with EU Sustainability Rules with One Report",
+    "認識-verra、gs-之後，下一步呢？從誠信標章、數位監管.html": "Beyond Verra and Gold Standard: Integrity Labels, Digital Monitoring & Latest Market Cases",
+    "自願性碳市場怎麼選？一次看懂-verra-與-gold-standard-的差異與.html": "How to Choose a Voluntary Carbon Market: Verra vs. Gold Standard Differences & Corporate Applications",
+    "eu-omnibus-是什麼？歐盟-esg-法規大簡化與最新政策一次看懂.html": "What Is the EU Omnibus Package? ESG Regulation Simplification & Latest Policy Explained",
+    "歐盟包裝法-ppwr-是什麼？一次看懂新規則、企業案例.html": "What Is the EU PPWR? New Packaging Rules, Business Cases & Global Supply Chain Impact",
+    "歐盟零毀林法規（eudr）延至2026年上路：哪些產品受影.html": "EU Deforestation Regulation (EUDR) Delayed to 2026: Which Products Are Affected & How to Avoid Rejection?",
+    "esg的「s」寫不出來？影響力採購，讓每一筆支出都.html": "Struggling with the \"S\" in ESG? Impact Procurement Turns Every Purchase into Social Value",
+    "什麼是綠色採購？企業與政府必懂的定義、法規與.html": "What Is Green Procurement? Definitions, Regulations & Key Points for Business and Government",
+    "永續採購是什麼？iso-20400-全解析及企業供應鏈永續與實.html": "What Is Sustainable Procurement? ISO 20400 Explained with Supply Chain Cases & Best Practices",
+    "為成功付費（pay-for-success-pfs）是什麼？一次看懂模式、案例.html": "What Is Pay for Success (PFS)? Models, Cases & Development in Taiwan",
+    "告別碳盤查雙頭馬車！iso-與-ghg-protocol-合併，2026-企業邁向「.html": "Ending the Dual Carbon Accounting Era: ISO & GHG Protocol Merge Toward a Unified Carbon Accounting Future in 2026",
+    "gri-準則是什麼？企業永續報告為何都離不開它.html": "What Are GRI Standards? Why Every Corporate Sustainability Report Relies on Them",
+    "打造永續競爭力：dei-多元共融如何成為企業人才戰.html": "Building Sustainable Competitiveness: How DEI Becomes the Decisive Edge in the Talent War",
+    "2026-永續接軌最後通牒：為什麼你的-tcfd-報告書在-ifrs-s1-s2-準.html": "2026 Sustainability Alignment Deadline: Why Your TCFD Report May Fail Under IFRS S1/S2",
+    "【2025-全球碳市場權威指南】從誠信危機到技術革命.html": "[2025 Global Carbon Market Authority Guide] From Integrity Crisis to Tech Revolution: High-Quality Carbon Credit Standards & ICVCM Labels",
+    "從空氣吸碳、從生質封碳：你必須認識的兩種碳移.html": "From Air to Biomass: Two Carbon Removal Technologies You Must Know—DAC & BECCS",
+    "gri-啟動標準修訂：氣候變化、能源與貨幣流動報告.html": "GRI Launches Standard Revisions: Climate Change, Energy & Currency Flow Reporting Enter a New Phase",
+    "2050淨零轉型核心：深入解析歐盟綠色政綱（european-green-deal）.html": "Net Zero by 2050: A Deep Dive into the European Green Deal's Ambitions & New Chapter",
+    "碳有價時代來臨：企業如何以內部碳定價領跑未來.html": "The Age of Priced Carbon: How Internal Carbon Pricing Helps Companies Lead the Future",
+    "除了cbam，你更應該了解！台灣企業不可不知的美國.html": "Beyond CBAM: What Taiwanese Companies Must Know About the U.S. \"Carbon Tariff\" (CCA Act)",
+    "從「快時尚」到「慢時尚」的再思考.html": "Rethinking Fashion: From Fast Fashion to Slow Fashion",
+    "穿出永續新態度：從「快時尚」到「慢時尚」的華.html": "Dressing for Sustainability: A Graceful Shift from Fast Fashion to Slow Fashion",
+    "台灣與sdgs：17項永續發展目標與在地行動指南.html": "Taiwan & the SDGs: 17 Sustainable Development Goals & Local Action Guide",
+    "碳盤查進階指南：從「範疇」到「類別」的深度解.html": "Advanced Carbon Inventory Guide: A Deep Dive from Scopes to Categories",
+    "認識碳足跡的三大範疇：範疇一、範疇二與範疇三.html": "Understanding the Three Scopes of Carbon Footprint: Scope 1, Scope 2 & Scope 3 Explained",
+    "從線性到循環：認識循環經濟的核心理念與商業實.html": "From Linear to Circular: Core Concepts of the Circular Economy & Business Practice",
+    "確信、保證、查證、確證有什麼不同？一篇搞懂永.html": "Assurance, Verification & Attestation: Sustainability Reporting Terms Explained",
+    "什麼是「漂綠」與「噤綠」？破解永續迷霧，看穿.html": "What Are Greenwashing and Greenhushing? Cutting Through the Sustainability Fog",
+    "【碳權、碳抵換、碳排許可】傻傻分不清？一次搞.html": "Carbon Credits, Offsets & Emissions Permits: Three Key Carbon Market Terms Explained",
+    "什麼是碳權？解碼「碳有價」的時代.html": "What Are Carbon Credits? Decoding the Era of Priced Carbon",
+    "永續不是說說而已：帶你認識國際esg評級機構與差.html": "Sustainability Is More Than Talk: International ESG Rating Agencies & Their Differences",
+    "生物炭是什麼？為什麼全球企業瘋狂搶投資？一次.html": "What Is Biochar? Why Global Companies Are Racing to Invest—Uses & Potential Explained",
+    "一文看懂-csrd、esrs、cs3d：歐盟永續三劍客，企業不可不.html": "CSRD, ESRS & CSDDD Explained: The EU Sustainability Regulatory Trio Every Business Must Know",
+    "【懶人包】什麼是-ifrs-s1-s2？你需要知道的永續揭露新.html": "[Quick Guide] What Are IFRS S1/S2? The New Sustainability Disclosure Standards You Need to Know",
+    "揭露未來風險的三重宇宙：tcfd、tnfd、tisfd-一文搞懂差異.html": "Three Universes of Future Risk Disclosure: TCFD, TNFD & TISFD Differences & Trends",
+    "重新詮釋影響力投資：它和csr、esg有什麼不一樣？.html": "Impact Investing Redefined: How It Differs from CSR and ESG",
+    "財務、ai-與永續的三重整合：企業邁向淨零的關鍵.html": "Finance, AI & Sustainability: The Triple Integration Key to Corporate Net Zero",
+    "只盤查碳排還不夠！用iso-14051搭配iso-14064與14067，啟動企業減.html": "Carbon Inventory Alone Isn't Enough: ISO 14051 with ISO 14064 & 14067 to Launch Your Emissions Efficiency Revolution",
+    "iso-14064-1、iso-14064-2、iso-14067-和-iso-14051-的深度比較.html": "ISO 14064-1, ISO 14064-2, ISO 14067 & ISO 14051: A Deep Comparison",
+    "中小企業也能做好-esg！從混亂資料到成長策略，synesgy.html": "SMEs Can Do ESG Too: From Scattered Data to Growth Strategy—How Synesgy Helps",
+    "cfa-esg-證照更名為「可持續投資證書」：投資人該如何.html": "CFA ESG Credential Renamed \"Certificate in Sustainable Investing\": What Investors Should Know",
+    "協助企業應對氣候風險，邁向永續未來.html": "Helping Businesses Navigate Climate Risk Toward a Sustainable Future",
+    "2025智慧城市展與2050淨零城市展圓滿落幕，感謝鑫判科.html": "2025 Smart City & 2050 Net Zero City Expo Wrap-Up: Thanks to BeAmazed Tech & All Participants",
+    "everlab360-logo設計背後的故事.html": "The Story Behind the EverLab360 Logo Design"
+  }
+}
