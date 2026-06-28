@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "EL360 website",
+    "createdAt": 1782634673510,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "/Users/kevinkuo/Documents/Github project/EL360 website"
+  ],
+  "reload": null
+}
