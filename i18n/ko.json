@@ -1,7 +1,7 @@
 {
   "ui": {
     "company_name": "EverLab360 Inc.",
-    "tagline": "지속가능성의 파트너",
+    "tagline": "지속가능성을 위한 파트너",
     "nav": {
       "about": "회사 소개",
       "team": "팀 소개",
@@ -15,7 +15,7 @@
       "quick_links": "바로가기",
       "more": "더보기",
       "contact": "문의하기",
-      "tax_id_label": "사업자등록번호",
+      "tax_id_label": "대만 통일번호",
       "copyright": "© 2024-2026 EverLab360 Inc. All rights reserved."
     },
     "newsletter_title": "뉴스레터 구독",
@@ -24,7 +24,7 @@
     "view_all_posts": "전체 게시물 보기 ({count})",
     "home": "홈",
     "top": "맨 위로",
-    "gui_number": "GUI number: 93522258",
+    "gui_number": "대만 통일번호: 93522258",
     "address_en": "No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
     "address_zh": "臺北市中正區博愛路104號",
     "address_floor": "3F, No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
@@ -32,8 +32,8 @@
     "email": "everlab360@gmail.com"
   },
   "index": {
-    "title": "EverLab360 Inc. - 지속가능성의 파트너",
-    "hero_title": "지속가능성의 파트너",
+    "title": "EverLab360 Inc. - 지속가능성을 위한 파트너",
+    "hero_title": "지속가능성을 위한 파트너",
     "hero_desc": "<strong>EverLab360</strong>은 지속가능한 전환에 특화된 전략 컨설팅 기업입니다. ESG, 브랜딩, 운영을 통합하여 사회적 가치와 시장 경쟁력을 동시에 실현하는 비즈니스 모델 구축을 지원합니다.",
     "team_section_title": "팀 소개",
     "team_belief_intro": "우리의 신념:",
@@ -66,20 +66,20 @@
     ],
     "services": [
       {
-        "title": "개별 제품/서비스 – 검증 및 최적화",
+        "title": "제품 및 서비스 검증 / 최적화",
         "items": [
           "정부 보조금 지원",
           "기업 사회적 책임(CSR) 전략 기획",
-          "사회가치 평가",
+          "사회적 가치 평가",
           "물질흐름원가회계: MFCA (ISO 14051)",
-          "탄소/수자원 발자국 검증 및 제3자 인증",
-          "GRI 인증 국제 그린 라벨: Synesgy"
+          "탄소 및 물 발자국 검증 / 제3자 검증",
+          "GRI에 부합하는 국제 지속가능성 평가: Synesgy"
         ]
       },
       {
-        "title": "기업 지속가능성 – ESG 회복력",
+        "title": "기업 지속가능성 – ESG 역량",
         "items": [
-          "기업 지속가능성 건강 진단",
+          "기업 지속가능성 진단",
           "지속가능성 코칭 및 컨설팅",
           "기업 사내 교육",
           "GRI 준수 지속가능성 보고서 / 동적 웹 기반 지속가능성 보고서",
@@ -87,18 +87,18 @@
         ]
       },
       {
-        "title": "기업 지속가능성 – 브랜드 회복력",
+        "title": "기업 지속가능성 – 브랜드 역량",
         "items": [
           "지속가능한 비즈니스 모델",
           "지속가능한 기업 브랜딩",
           "지속가능한 리더십 브랜딩",
-          "지속가능 PR 위기 대응 솔루션"
+          "지속가능성 홍보 및 위기관리 솔루션"
         ]
       },
       {
-        "title": "임팩트 확대 – 지속가능성 홍보",
+        "title": "임팩트 확대 – 지속가능성 참여",
         "items": [
-          "공익 매칭",
+          "사회공헌 파트너십 매칭",
           "지속가능 마케팅 전략",
           "ESG 홍보 전략",
           "국내외 ESG 어워드 신청",

@@ -1,30 +1,30 @@
 {
   "ui": {
     "company_name": "EverLab360 Inc.",
-    "tagline": "Đối tác phát triển bền vững của bạn",
+    "tagline": "Đối tác đồng hành vì phát triển bền vững",
     "nav": {
       "about": "Giới thiệu",
       "team": "Đội ngũ",
       "service": "Dịch vụ",
       "collaborators": "Đối tác",
-      "reviews": "Đánh giá",
+      "reviews": "Câu chuyện khách hàng",
       "blog": "Blog",
       "contact": "Liên hệ"
     },
     "footer": {
       "quick_links": "Liên kết nhanh",
-      "more": "Thêm",
+      "more": "Xem thêm",
       "contact": "Liên hệ",
       "tax_id_label": "Mã số thuế",
       "copyright": "© 2024-2026 EverLab360 Inc. All rights reserved."
     },
     "newsletter_title": "Đăng ký nhận bản tin",
     "newsletter_desc": "Nhận các xu hướng ESG mới nhất, cập nhật quy định và các nghiên cứu tình huống thực tiễn",
-    "visit_us": "Ghé thăm chúng tôi",
+    "visit_us": "Ghé thăm văn phòng",
     "view_all_posts": "Xem tất cả bài viết ({count})",
     "home": "Trang chủ",
     "top": "Lên đầu trang",
-    "gui_number": "GUI number: 93522258",
+    "gui_number": "Mã số doanh nghiệp Đài Loan: 93522258",
     "address_en": "No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
     "address_zh": "臺北市中正區博愛路104號",
     "address_floor": "3F, No. 104, Bo'ai Rd., Zhongzheng Dist., Taipei City",
@@ -32,8 +32,8 @@
     "email": "everlab360@gmail.com"
   },
   "index": {
-    "title": "EverLab360 Inc. - Đối tác phát triển bền vững của bạn",
-    "hero_title": "Đối tác phát triển bền vững của bạn",
+    "title": "EverLab360 Inc. - Đối tác đồng hành vì phát triển bền vững",
+    "hero_title": "Đối tác đồng hành vì phát triển bền vững",
     "hero_desc": "<strong>EverLab360</strong> là công ty tư vấn chiến lược chuyên về chuyển đổi bền vững. Chúng tôi hỗ trợ doanh nghiệp tích hợp ESG, thương hiệu và vận hành để xây dựng mô hình kinh doanh mang lại cả giá trị xã hội lẫn lợi thế cạnh tranh trên thị trường.",
     "team_section_title": "Gặp gỡ đội ngũ của chúng tôi",
     "team_belief_intro": "Chúng tôi tin rằng:",
@@ -66,20 +66,20 @@
     ],
     "services": [
       {
-        "title": "Sản phẩm/Dịch vụ riêng lẻ – Xác minh & Tối ưu hóa",
+        "title": "Xác minh và tối ưu hóa sản phẩm / dịch vụ",
         "items": [
           "Hỗ trợ trợ cấp chính phủ",
           "Lập kế hoạch chiến lược trách nhiệm xã hội doanh nghiệp",
-          "Đánh giá giá trị xã hội",
+          "Định giá tác động xã hội",
           "Kế toán chi phí dòng vật liệu: MFCA (ISO 14051)",
-          "Xác minh dấu chân carbon/nước và thẩm định bên thứ ba",
-          "Nhãn xanh quốc tế được chứng nhận GRI: Synesgy"
+          "Xác minh dấu chân carbon và nước / bảo đảm bởi bên thứ ba",
+          "Đánh giá bền vững quốc tế phù hợp với GRI: Synesgy"
         ]
       },
       {
-        "title": "Bền vững doanh nghiệp – Khả năng phục hồi ESG",
+        "title": "Bền vững doanh nghiệp – Năng lực ESG",
         "items": [
-          "Kiểm tra sức khỏe bền vững doanh nghiệp",
+          "Đánh giá sức khỏe bền vững doanh nghiệp",
           "Huấn luyện và tư vấn bền vững",
           "Đào tạo nội bộ doanh nghiệp",
           "Báo cáo bền vững tuân thủ GRI / Báo cáo bền vững web động",
@@ -87,18 +87,18 @@
         ]
       },
       {
-        "title": "Bền vững doanh nghiệp – Khả năng phục hồi thương hiệu",
+        "title": "Bền vững doanh nghiệp – Năng lực thương hiệu",
         "items": [
           "Mô hình kinh doanh bền vững",
           "Xây dựng thương hiệu doanh nghiệp bền vững",
           "Xây dựng thương hiệu lãnh đạo bền vững",
-          "Giải pháp khủng hoảng PR bền vững"
+          "Giải pháp truyền thông và quản trị khủng hoảng về bền vững"
         ]
       },
       {
-        "title": "Khuếch đại tác động – Quảng bá bền vững",
+        "title": "Khuếch đại tác động – Gắn kết bền vững",
         "items": [
-          "Kết nối phúc lợi cộng đồng",
+          "Kết nối đối tác tạo tác động xã hội",
           "Chiến lược marketing bền vững",
           "Chiến lược quan hệ công chúng ESG",
           "Đăng ký giải thưởng ESG trong nước và quốc tế",
@@ -147,7 +147,7 @@
     },
     "reviews": [
       {
-        "text": "Buổi tư vấn này vô cùng giá trị. Mặc dù chúng tôi luôn tập trung vào định vị các công ty khác, chúng tôi thường đặt bản thân ở vị trí cuối cùng. Qua cuộc thảo luận này, chúng tôi có cơ hội xem xét kỹ lưỡng thương hiệu của mình và khám phá lại niềm đam mê và mục đích ban đầu. Toàn bộ quá trình ấm áp và cởi mở, cho phép tôi thảo luận một cách trung thực và làm rõ mục tiêu của mình.",
+        "text": "Buổi tư vấn này vô cùng giá trị. Trước đây, chúng tôi luôn tập trung định vị thương hiệu cho các công ty khác, còn chính mình lại thường được đặt sau cùng. Qua cuộc thảo luận này, chúng tôi có cơ hội nhìn lại thương hiệu của mình và tìm lại nhiệt huyết cùng mục tiêu ban đầu. Toàn bộ quá trình ấm áp và cởi mở, giúp tôi có thể trao đổi thẳng thắn và làm rõ mục tiêu của mình.",
         "author": "— Giám đốc Liu, ChiHe Design"
       },
       {

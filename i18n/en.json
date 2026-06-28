@@ -1,13 +1,13 @@
 {
   "ui": {
     "company_name": "EverLab360 Inc.",
-    "tagline": "Your Partner to Sustainability",
+    "tagline": "Your Partner in Sustainability",
     "nav": {
       "about": "About",
       "team": "Our Team",
-      "service": "Service",
-      "collaborators": "Collaborators",
-      "reviews": "Reviews",
+      "service": "Services",
+      "collaborators": "Partners",
+      "reviews": "Client Stories",
       "blog": "Blog",
       "contact": "Contact"
     },
@@ -32,15 +32,15 @@
     "email": "everlab360@gmail.com"
   },
   "index": {
-    "title": "EverLab360 Inc. - Your Partner to Sustainability",
-    "hero_title": "Your Partner to Sustainability",
+    "title": "EverLab360 Inc. - Your Partner in Sustainability",
+    "hero_title": "Your Partner in Sustainability",
     "hero_desc": "<strong>EverLab360</strong> is a strategic consulting firm focused on sustainable transformation. We help businesses integrate ESG, branding, and operations to build business models that deliver both social value and market competitiveness.",
     "team_section_title": "Meet Our Team",
     "team_belief_intro": "We believe:",
     "team_belief": [
-      "Sustainability is not an add-on—it is a strategy for business survival and growth.",
+      "Sustainability is not an add-on—it is how businesses survive and grow.",
       "An ESG report is not the goal—it is the starting point of transformation.",
-      "Consultants should not only give advice—they must stay with you until results are delivered."
+      "Consultants should do more than give advice—they should stay alongside you until results are delivered."
     ],
     "team": [
       {
@@ -66,20 +66,20 @@
     ],
     "services": [
       {
-        "title": "Individual Products/Services – Verification & Optimization",
+        "title": "Product & Service Verification / Optimization",
         "items": [
           "Government subsidy assistance",
           "Corporate social responsibility strategy planning",
-          "Social value assessment",
+          "Social impact valuation",
           "Material Flow Cost Accounting: MFCA (ISO 14051)",
-          "Carbon/water footprint verification and third-party validation",
-          "GRI-certified international green label: Synesgy"
+          "Carbon and water footprint verification / third-party assurance",
+          "GRI-aligned international sustainability assessment: Synesgy"
         ]
       },
       {
-        "title": "Corporate Sustainability – ESG Resilience",
+        "title": "Corporate Sustainability – ESG Capability",
         "items": [
-          "Corporate sustainability health check",
+          "Corporate sustainability assessment",
           "Sustainability coaching and consulting",
           "Corporate in-house training",
           "GRI-compliant sustainability reports / dynamic web-based sustainability reports",
@@ -87,21 +87,21 @@
         ]
       },
       {
-        "title": "Corporate Sustainability – Brand Resilience",
+        "title": "Corporate Sustainability – Brand Capability",
         "items": [
           "Sustainable business models",
           "Sustainable corporate branding",
           "Sustainable leadership branding",
-          "Sustainable PR crisis solutions"
+          "Sustainability PR and crisis-management solutions"
         ]
       },
       {
-        "title": "Impact Amplification – Sustainability Promotion",
+        "title": "Impact Amplification – Sustainability Engagement",
         "items": [
-          "Public welfare matchmaking",
+          "Social-impact partnership matching",
           "Sustainable marketing strategy",
           "ESG public relations strategy",
-          "Domestic and international ESG award applications",
+          "Domestic and international ESG award submissions",
           "ESG media exposure",
           "Corporate image video services"
         ]
